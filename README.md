@@ -14,7 +14,9 @@ link
 unzip it :
 
 -assets/
+
 -chess.exe
+
 -sdl3.dll
 
 Make sure they’re all stored in the same folder.
