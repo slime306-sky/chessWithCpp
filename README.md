@@ -9,7 +9,7 @@ If you happen to mention me, giving credit would be awesome — totally apprecia
 
 If you just want to try it out, just download  everything from the repo linked below:
 
-[link](https://github.com/slime306-sky/chessWithCppEXE.git)
+[Chess.exe download](https://github.com/slime306-sky/chessWithCppEXE.git)
 
 unzip it :
 
