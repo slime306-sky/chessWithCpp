@@ -25,7 +25,7 @@ A C++ Chess game built with SDL — for people who love 64 squares and a bit of 
 ### 🐧 Linux / 🪟 Windows (via MinGW or WSL) / 🍏 macOS
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/chessWithCpp.git
+git clone https://github.com/slime306-sky/chessWithCpp.git
 cd chessWithCpp
 g++ -std=c++17 -I./ -lSDL3 *.cpp -o chess
 ./chess
